@@ -9,7 +9,7 @@ int main()
 	//Inserting elements into map
 	cout << "Inserting using operator []" << endl;
 	students[1] = "Teja";
-	students[2] = "Ravi";
+	students[2] = "Ravi Kumar";
 
 	for (auto x : students)
 	{
